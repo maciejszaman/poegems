@@ -1,0 +1,56 @@
+{
+  "league": "Keepers",
+  "lastUpdated": "2026-03-01T04:33:23.329Z",
+  "gems": [
+    {
+      "name": "Firestorm of Pelting",
+      "chaosValue": 329.8,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GaXJlc3Rvcm0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjE0fV0/ac42f6b194/Firestorm.png"
+    },
+    {
+      "name": "Ground Slam of Earthshaking",
+      "chaosValue": 323.8,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Hcm91bmRzbGFtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo1fV0/eb48a25784/Groundslam.png"
+    },
+    {
+      "name": "Cyclone of Tumult",
+      "chaosValue": 285,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DeWNsb25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo5fV0/c2e959cfba/Cyclone.png"
+    },
+    {
+      "name": "Detonate Dead of Scavenging",
+      "chaosValue": 275,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXRvbmF0ZURlYWQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjl9XQ/ce6c88958c/DetonateDead.png"
+    },
+    {
+      "name": "Penance Brand of Dissipation",
+      "chaosValue": 250,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QZW5hbmNlQnJhbmRHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/a0d9631880/PenanceBrandGem.png"
+    },
+    {
+      "name": "Kinetic Blast of Clustering",
+      "chaosValue": 209.7,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DbHVzdGVyQnVyc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/4fcc032863/ClusterBurst.png"
+    },
+    {
+      "name": "Frostblink of Wintry Blast",
+      "chaosValue": 198,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdGJsaW5rU2tpbGxHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/e6977ed1a4/FrostblinkSkillGem.png"
+    },
+    {
+      "name": "Elemental Hit of the Spectrum",
+      "chaosValue": 142.5,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbGVtZW50YWxoaXQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjl9XQ/00d78f19d4/Elementalhit.png"
+    },
+    {
+      "name": "Poisonous Concoction of Bouncing",
+      "chaosValue": 117,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Qb2lzb25vdXNDb25jb2N0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo5fV0/125fe1e7b6/PoisonousConcoction.png"
+    },
+    {
+      "name": "Summon Stone Golem of Safeguarding",
+      "chaosValue": 100,
+      "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Sb2NrR29sZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjZ9XQ/d7a7ac4f62/RockGolem.png"
+    }
+  ]
+}
