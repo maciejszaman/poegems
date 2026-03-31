@@ -59,7 +59,7 @@ const Poetools = () => {
             </a>
           </div>
           <Link
-            to="/poe/divinefont"
+            to="/divinefont"
             className="hover:brightness-125 transition-all"
           >
             <div className="p-4 gap-4 flex items-center rounded-2xl bg-[#303030] border border-[#3f3f3f] mb-4">
@@ -72,7 +72,7 @@ const Poetools = () => {
               </div>
             </div>
           </Link>
-          <Link to="/poe/offhand" className="hover:underline transition-all">
+          <Link to="/offhand" className="hover:underline transition-all">
             <div className="p-4 gap-4 flex items-center border-2 border-text/50 border-shadow-[]">
               <img src="https://www.poewiki.net/images/3/37/Offering_to_the_Goddess_inventory_icon.png" />
               <div className="flex flex-col">
