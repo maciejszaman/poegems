@@ -6,7 +6,7 @@ const args    = process.argv.slice(2)
 const league  = args[args.indexOf('--league') + 1] ?? 'Mirage'
 const outPath = args[args.indexOf('--out')    + 1] ?? 'public/gems-data.json'
 
-const API_URL = `https://poe.ninja/api/data/itemoverview?league=${encodeURIComponent(league)}&type=SkillGem`
+const API_URL = `https://poe.ninja/poe1/api/economy/stash/current/item/overview?league=${encodeURIComponent(league)}&type=SkillGem`
 
 function isTransfigured(g) {
   return !!g.tradeFilter?.query?.type?.discriminator
